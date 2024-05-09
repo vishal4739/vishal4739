@@ -1,3 +1,7 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dipayan Sarkar
+======================================================================================================================================
+<h4>A Full-Stack developer | MERN Stack</h4>
+
 # 💫 About Me:
 - 🔭 I’m currently working on a MERN and Java Project<br>- 🌱 I’m Interested to work on Spring Framework , React Js and Hibernate<br>- 👯 I’m making the world better by Content<br>- 💬 Ask me about Technology & Development<br>- 📫 How to reach me: vishalchaudhary20011@gmail.com<br>- ⚡ Fun fact: I have Bachelor's of Computer Applications- 🔭 I’m currently working on a MERN and Java Project<br>- 🌱 I’m Interested to work on Spring Framework , React Js and Hibernate<br>- 👯 I’m making the world better by Content<br>- 💬 Ask me about Technology & Development<br>- 📫 How to reach me: vishalchaudhary20011@gmail.com<br>- ⚡ Fun fact: I have Bachelor's of Computer Applications
 
