@@ -1,39 +1,32 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vishal Chaudhary
-======================================================================================================================================
-<h4>A Full-Stack developer | MERN Stack</h4>
-
-- 🔭 I’m currently working on a MERN and Java Project
-- 🌱 I’m Interested to work on Spring Framework , React Js and Hibernate
-- 👯 I’m making the world better by Content
-- 💬 Ask me about Technology & Development
-- 📫 How to reach me: vishalchaudhary20011@gmail.com
-- ⚡ Fun fact: I have Bachelor's of Computer Applications
-
-<a href="https://www.github.com/vishal4739" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/vishal4739?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal4739&label=Profile%20views&color=0e75b6&style=flat" alt="vishal4739" /> </p>
-
-<p align="left"> <a href="https://twitter.com/codewithbiki" target="blank"><img src="https://img.shields.io/twitter/follow/codewithbiki?logo=twitter&style=for-the-badge" alt="codewithbiki" /></a> </p>
-
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="react" width="35" height="40"/> </a> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="firebase" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-144x86-czphjb87.png" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Frameworks and Tools:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="tailwind" width="40" height="40"/> </a> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-144x86-czphjb87.png" alt="tailwind" width="50" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="tailwind" width="50" height="40"/> </a> </p>
+# 💫 About Me:
+- 🔭 I’m currently working on a MERN and Java Project<br>- 🌱 I’m Interested to work on Spring Framework , React Js and Hibernate<br>- 👯 I’m making the world better by Content<br>- 💬 Ask me about Technology & Development<br>- 📫 How to reach me: vishalchaudhary20011@gmail.com<br>- ⚡ Fun fact: I have Bachelor's of Computer Applications- 🔭 I’m currently working on a MERN and Java Project<br>- 🌱 I’m Interested to work on Spring Framework , React Js and Hibernate<br>- 👯 I’m making the world better by Content<br>- 💬 Ask me about Technology & Development<br>- 📫 How to reach me: vishalchaudhary20011@gmail.com<br>- ⚡ Fun fact: I have Bachelor's of Computer Applications
 
 
-# Badges 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-chaudhary-7524a124a/) 
 
-<b>My GitHub Stats</b>
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vishal4739&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vishal4739&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal4739&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="http://www.github.com/vishal4739"><img src="https://github-readme-stats.vercel.app/api?username=vishal4739&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vishal4739's GitHub stats" /></a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vishal4739&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<a href="http://www.github.com/vishal4739"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal4739&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vishal4739&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<a href="https://github.com/vishal4739" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal4739&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<b>Top Repositories</b>
+<b>Top Repositories</b> <div width="100%" align="center"><a href="https://github.com/vishal4739/Salary-Management.git" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishal4739&repo=weather_app&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vishal4739/Student_Management" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishal4739&repo=Student_Management&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> <div width="100%" align="center"><a href="https://github.com/vishal4739/" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishal4739&repo=weather_app&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vishal4739/Salary-Management" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishal4739&repo=Student_Management&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/vishal4739/" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishal4739&repo=weather_app&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vishal4739/Student_Management" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishal4739&repo=Student_Management&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-<div width="100%" align="center"><a href="https://github.com/vishal4739/" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishal4739&repo=weather_app&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vishal4739/Salary-Management" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishal4739&repo=Student_Management&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
+[![](https://visitcount.itsvg.in/api?id=vishal4739&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
